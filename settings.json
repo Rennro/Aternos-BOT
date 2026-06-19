@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mkz.aternos.me",
+    "ip": "mkzsmp.aternos.me",
     "port": 23350,
     "version": "1.20.1",
     "try-creative": false
